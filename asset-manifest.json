@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TeamsPSUTI/static/css/main.e6c13ad2.css",
-    "main.js": "/TeamsPSUTI/static/js/main.aad8568c.js",
-    "static/js/787.ba2867d2.chunk.js": "/TeamsPSUTI/static/js/787.ba2867d2.chunk.js",
-    "index.html": "/TeamsPSUTI/index.html",
-    "main.e6c13ad2.css.map": "/TeamsPSUTI/static/css/main.e6c13ad2.css.map",
-    "main.aad8568c.js.map": "/TeamsPSUTI/static/js/main.aad8568c.js.map",
-    "787.ba2867d2.chunk.js.map": "/TeamsPSUTI/static/js/787.ba2867d2.chunk.js.map"
+    "main.css": "/TeamsPsuti/static/css/main.e6c13ad2.css",
+    "main.js": "/TeamsPsuti/static/js/main.b4a043b9.js",
+    "static/js/787.57ad12d3.chunk.js": "/TeamsPsuti/static/js/787.57ad12d3.chunk.js",
+    "index.html": "/TeamsPsuti/index.html",
+    "main.e6c13ad2.css.map": "/TeamsPsuti/static/css/main.e6c13ad2.css.map",
+    "main.b4a043b9.js.map": "/TeamsPsuti/static/js/main.b4a043b9.js.map",
+    "787.57ad12d3.chunk.js.map": "/TeamsPsuti/static/js/787.57ad12d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.aad8568c.js"
+    "static/js/main.b4a043b9.js"
   ]
 }
